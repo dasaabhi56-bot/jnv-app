@@ -1,0 +1,6 @@
+{
+  "name": "JNV Vattem Attendance Register",
+  "description": "Multi-level attendance management, roster customization, and regional analytics portal for Jawahar Navodaya Vidyalaya, Vattem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
